@@ -84,7 +84,7 @@ module.exports = {
       chunks: ['index']
     }),
 
-    // Internal pages
+    Internal pages
     new HtmlWebpackPlugin({
       hash: true,
       scriptLoading: 'blocking',
